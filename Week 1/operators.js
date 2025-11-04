@@ -1,3 +1,5 @@
+// Concepts: Arithmetic, Assignment, Comparison, Logical, Ternary
+
 // Q1.	Write a program using all arithmetic operators (+, -, *, /, %, **).
 var a = 10;
 var b = 3;
