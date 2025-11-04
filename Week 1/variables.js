@@ -1,3 +1,5 @@
+// Concepts: var, let, const, data types, naming rules
+
 // Q1. Declare 5 variables (string, number, boolean, null, undefined) and log their types.
 
 let var1 = "HELLO WORLD";
