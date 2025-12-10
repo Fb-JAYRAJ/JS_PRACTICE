@@ -18,22 +18,46 @@ My goal is to become **internship-ready by December 2025** 💪
 ---
 
 ## 📚 Folder Structure
+```
 📦 js-practice  
-┣ 📁 week1-basics  
-┃ ┣ variables.js  
-┃ ┣ conditions.js  
-┃ ┣ loops.js  
-┣ 📁 week2-dom  
-┃ ┣ dom-basics.js  
-┃ ┗ todo-app/  
-┣ 📁 week3-async  
-┃ ┣ fetch-api.js  
-┃ ┗ weather-app/  
-┣ 📁 mini-projects  
-┃ ┣ calculator/  
-┃ ┣ form-validation/  
-┃ ┗ joke-generator/  
-┗ README.md  
+JS_PRACTICE
+│
+├── README.md
+│
+├── Week 1
+│   ├── variables.js
+│   ├── operators.js
+│   ├── conditions.js
+│   ├── loops.js
+│   ├── functions.js
+│   └── README.md
+│
+├── Week 2
+│   ├── arrays.js
+│   ├── array-methods.js
+│   ├── objects.js
+│   ├── object-practice.js
+│   └── README.md
+│
+├── Week 3
+│   ├── dom-basics.js
+│   ├── events.js
+│   ├── mini-todo-app
+│   │   └── (index.html, script.js etc…)
+│   └── README.md
+│
+├── Week 4
+│   ├── promises.js
+│   ├── async-await.js
+│   ├── fetch-api.js
+│   └── README.md
+│
+└── Mini_Projects
+    ├── calculator
+    ├── joke-generator
+    ├── weather-app
+    └── README.md  
+```
 
 ---
 
